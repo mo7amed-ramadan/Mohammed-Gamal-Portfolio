@@ -1,0 +1,35 @@
+.Card {
+  width: 293px;
+  height: 280px;
+  margin: 30px 0;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 11px rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+}
+.Card:hover {
+  transform: scale(1.1) !important;
+  transition: 300ms;
+}
+.animate__animated {
+  animation-duration: 1s !important;
+}
+.cardIcon {
+  max-width: 60px;
+  height: auto;
+  color: var(--yellow-color) !important;
+  margin: 0 0 15px 0;
+}
+.cardTitle {
+  font-weight: bold;
+  font-size: 32px;
+  max-width: 275px;
+  text-align: center;
+  color: var(--yellow-color) !important;
+  margin: 0 0 15px 0;
+}
+.cardDescription {
+  font-size: 16px;
+  font-weight: 500;
+  max-width: 82%;
+}

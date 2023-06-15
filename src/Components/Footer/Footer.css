@@ -1,0 +1,12 @@
+.footer {
+  text-align: center;
+  font-family: monospace;
+}
+.footer a {
+  margin-left: 8px;
+  text-decoration: none;
+  color: #fff;
+}
+.footer a:hover {
+  color: var(--yellow-color);
+}

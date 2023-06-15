@@ -1,0 +1,37 @@
+.home {
+  height: 500px;
+}
+.profile {
+  width: 300px;
+}
+
+@media (max-width: 820px) {
+  .leftSide {
+    text-align: center !important;
+  }
+  .profile {
+    margin-right: auto !important;
+    margin-left: auto !important;
+    width: 270px !important;
+  }
+}
+@media (max-width: 425px) {
+  .leftSide {
+    text-align: center !important;
+  }
+  .name {
+    font-size: 22px !important;
+  }
+  .description {
+    font-size: 17px !important;
+    margin-top: 6px !important;
+  }
+  .icon {
+    font-size: 28px !important;
+  }
+  .profile {
+    margin-right: auto !important;
+    margin-left: auto !important;
+    width: 200px !important;
+  }
+}

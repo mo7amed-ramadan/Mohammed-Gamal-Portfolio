@@ -1,0 +1,26 @@
+.project-button {
+  width: 400px;
+  height: 70px;
+  background: var(--white-color);
+  color: black;
+  margin: 150px 0 90px 0;
+  border-radius: 15px;
+  box-shadow: 0 0 11px #fff;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  color: black;
+  text-decoration: none;
+}
+
+.project-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+.project-button:hover {
+  background: var(--main-color);
+  box-shadow: 0 6px 7px var(--yellow-color);
+}
+.project-button:hover span {
+  color: var(--yellow-color);
+}
