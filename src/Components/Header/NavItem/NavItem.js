@@ -4,7 +4,7 @@ function NavItem(props) {
     var phoneScrolling = props.phoneScrolling;
     var tabletScrolling = props.tabletScrolling;
     var smallPhoneScroll = props.smallPhoneScroll;
-    if (window.innerWidth >= 412 && window.innerWidth < 425) {
+    if (window.innerWidth <= 412 && window.innerWidth < 425) {
       scrolling = smallPhoneScroll;
     } else if (window.innerWidth >= 425 && window.innerWidth < 768) {
       scrolling = phoneScrolling;
