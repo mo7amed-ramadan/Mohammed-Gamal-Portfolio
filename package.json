@@ -1,7 +1,6 @@
 {
   "name": "mohammed-gamal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/mo7amed-ramadan/mohammed-gamal-porfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
