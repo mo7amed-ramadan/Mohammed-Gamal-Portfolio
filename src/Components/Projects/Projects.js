@@ -150,7 +150,7 @@ function Projects() {
               id="content"
               project={
                 <ProjectButton
-                  name="Posts"
+                  name="Content"
                   link="https://drive.google.com/drive/folders/15vdPo9gRvHig8Bs4hi53HEfi7WZBODXl?usp=drive_link"
                 />
               }
