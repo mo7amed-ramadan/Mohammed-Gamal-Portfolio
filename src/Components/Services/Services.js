@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearchengin } from "@fortawesome/free-brands-svg-icons";
 import { faAd, faFeatherAlt } from "@fortawesome/free-solid-svg-icons";
 import "animate.css";
+
 function Services() {
   return (
     <>
@@ -28,7 +29,7 @@ function Services() {
               description="Writing articles with SEO rules that make your site top the first search engines"
               id="card1"
               class="Card d-flex flex-column align-items-center "
-              animation="fade-right"
+              animation="fade-up"
             />
             <Card
               icon={
@@ -41,7 +42,7 @@ function Services() {
               description="Writing advertising text that helps you achieve maximum results for the advertising campaign"
               id="card2"
               class="Card d-flex flex-column align-items-center "
-              animation="fade"
+              animation="fade-up"
             />
             <Card
               icon={
@@ -54,7 +55,7 @@ function Services() {
               description="Writing content for websites and social media pages helps you achieve the highest reach and number of visits"
               id="card3"
               class="Card d-flex flex-column align-items-center "
-              animation="fade-left"
+              animation="fade-up"
             />
           </div>
         </div>

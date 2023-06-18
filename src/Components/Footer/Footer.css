@@ -10,3 +10,8 @@
 .footer a:hover {
   color: var(--yellow-color);
 }
+@media (max-width: 320px) {
+  .footer {
+    font-size: 15px !important;
+  }
+}

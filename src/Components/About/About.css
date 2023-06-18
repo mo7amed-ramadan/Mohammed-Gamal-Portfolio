@@ -38,6 +38,7 @@
 @media (max-width: 360px) {
   .about-description {
     font-size: 13px !important;
+    max-width: 282px !important;
     line-height: 20px !important;
   }
 }
