@@ -26,10 +26,10 @@ function HeaderColor() {
     projectsLink.style.color = "";
     contactsLink.style.color = "var(--yellow-color)";
   } else {
-    aboutLink.style.color = "";
-    servicesLink.style.color = "";
-    projectsLink.style.color = "";
-    contactsLink.style.color = "";
+    aboutLink.style.color = "#fff";
+    servicesLink.style.color = "#fff";
+    projectsLink.style.color = "#fff";
+    contactsLink.style.color = "#fff";
   }
 }
 
