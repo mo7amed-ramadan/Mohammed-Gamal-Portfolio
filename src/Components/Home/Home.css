@@ -4,7 +4,9 @@
 .profile {
   width: 300px;
 }
-
+.animate__fadeIn {
+  animation-name: none;
+}
 @media (max-width: 820px) {
   .leftSide {
     text-align: center !important;
@@ -33,5 +35,11 @@
     margin-right: auto !important;
     margin-left: auto !important;
     width: 200px !important;
+  }
+  .animate__fadeInRight {
+    animation-name: fadeIn !important;
+  }
+  .animate__animated {
+    animation-duration: 3s !important;
   }
 }

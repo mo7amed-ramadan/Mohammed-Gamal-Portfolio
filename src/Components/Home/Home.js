@@ -10,7 +10,7 @@ function Home() {
         <div className="leftSide mx-auto animate__animated animate__fadeInLeft animate__delay-1s my-4">
           <LeftSide />
         </div>
-        <div className="rightSide mx-auto animate__animated animate__fadeInRight animate__delay-0.5s">
+        <div className="rightSide mx-auto animate__animated animate__fadeInRight animate_fadeIn animate__delay-0.5s">
           <img
             src={mohammedGamalPhoto}
             alt="profile"
