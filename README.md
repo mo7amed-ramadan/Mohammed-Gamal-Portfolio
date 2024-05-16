@@ -1,5 +1,3 @@
-
-```markdown
 # Mohammed Gamal Portfolio
 
 This is the repository for Mohammed Gamal's professional portfolio. It showcases various projects, skills, and experiences that highlight Mohammed's capabilities as a developer.
@@ -47,7 +45,7 @@ To run this portfolio locally, follow these steps:
 Open your browser and go to `http://localhost:3000` to view the portfolio. You can navigate through different sections to explore the projects and features.
 
 ## Project Structure
-```plaintext
+
 mohammed-gamal-portfolio/
 │
 ├── public/                 # Public assets
@@ -59,7 +57,7 @@ mohammed-gamal-portfolio/
 ├── .gitignore              # Git ignore file
 ├── package.json            # Project metadata and dependencies
 └── README.md               # Project documentation
-```
+
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
@@ -73,4 +71,4 @@ For any inquiries, please contact me at:
 - LinkedIn: [Mohammed Ramadan](https://www.linkedin.com/in/mohamed-ramadan-381552253/)
 
 Thank you for watching my project!
-```
+
