@@ -53,8 +53,6 @@ mohammed-gamal-portfolio/
 ├── public/                 # Public assets
 ├── src/                    # Source files
 │   ├── components/         # React components
-│   ├── pages/              # Pages
-│   ├── styles/             # Stylesheets
 │   ├── App.js              # Main App component
 │   └── index.js            # Entry point
 │
